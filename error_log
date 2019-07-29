@@ -1,0 +1,154 @@
+[25-May-2019 14:30:58 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/resepma3/public_html/Theowarung/config.php on line 8
+[25-May-2019 14:32:34 Asia/Jakarta] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 32
+[25-May-2019 14:32:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/resepma3/public_html/Theowarung/detailpesanan.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 34
+[25-May-2019 14:35:18 Asia/Jakarta] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 32
+[25-May-2019 14:35:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/resepma3/public_html/Theowarung/detailpesanan.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 34
+[25-May-2019 14:46:57 Asia/Jakarta] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 32
+[25-May-2019 14:46:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/resepma3/public_html/Theowarung/detailpesanan.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 34
+[25-May-2019 14:47:09 Asia/Jakarta] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 32
+[25-May-2019 14:47:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/resepma3/public_html/Theowarung/detailpesanan.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 34
+[25-May-2019 14:50:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/resepma3/public_html/Theowarung/detailpesanan.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 34
+[25-May-2019 15:17:15 Asia/Jakarta] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 32
+[25-May-2019 15:19:34 Asia/Jakarta] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 32
+[25-May-2019 15:20:05 Asia/Jakarta] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 32
+[25-May-2019 15:20:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/resepma3/public_html/Theowarung/detailpesanan.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 34
+[25-May-2019 15:20:42 Asia/Jakarta] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 32
+[25-May-2019 15:20:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/resepma3/public_html/Theowarung/detailpesanan.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 34
+[25-May-2019 15:21:02 Asia/Jakarta] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 32
+[25-May-2019 15:21:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/resepma3/public_html/Theowarung/detailpesanan.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 34
+[25-May-2019 15:21:16 Asia/Jakarta] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 32
+[25-May-2019 15:21:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/resepma3/public_html/Theowarung/detailpesanan.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 34
+[25-May-2019 08:23:14 UTC] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING), expecting ',' or ')' in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 29
+[25-May-2019 08:23:17 UTC] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING), expecting ',' or ')' in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 29
+[25-May-2019 08:23:22 UTC] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING), expecting ',' or ')' in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 29
+[25-May-2019 08:23:50 UTC] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING), expecting ',' or ')' in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 29
+[25-May-2019 08:23:51 UTC] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING), expecting ',' or ')' in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 29
+[25-May-2019 08:23:53 UTC] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING), expecting ',' or ')' in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 29
+[25-May-2019 08:24:20 UTC] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING), expecting ',' or ')' in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 29
+[25-May-2019 15:26:14 Asia/Jakarta] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 31
+[25-May-2019 15:26:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/resepma3/public_html/Theowarung/detailpesanan.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 33
+[25-May-2019 15:28:49 Asia/Jakarta] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 31
+[25-May-2019 15:28:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/resepma3/public_html/Theowarung/detailpesanan.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 33
+[25-May-2019 15:32:20 Asia/Jakarta] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 31
+[25-May-2019 15:32:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/resepma3/public_html/Theowarung/detailpesanan.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 33
+[25-May-2019 15:32:47 Asia/Jakarta] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 31
+[25-May-2019 15:32:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/resepma3/public_html/Theowarung/detailpesanan.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 33
+[25-May-2019 15:35:57 Asia/Jakarta] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 31
+[25-May-2019 15:35:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/resepma3/public_html/Theowarung/detailpesanan.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 33
+[25-May-2019 15:43:50 Asia/Jakarta] PHP Notice:  Undefined variable: produkid in /home/resepma3/public_html/Theowarung/editvarian.php on line 103
+[04-Jun-2019 11:24:26 Asia/Jakarta] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 32
+[04-Jun-2019 11:24:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/resepma3/public_html/Theowarung/detailpesanan.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 34
+[04-Jun-2019 11:24:48 Asia/Jakarta] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 32
+[04-Jun-2019 11:24:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/resepma3/public_html/Theowarung/detailpesanan.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 34
+[04-Jun-2019 11:25:01 Asia/Jakarta] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 32
+[04-Jun-2019 11:25:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/resepma3/public_html/Theowarung/detailpesanan.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 34
+[04-Jun-2019 11:25:35 Asia/Jakarta] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 32
+[04-Jun-2019 11:25:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/resepma3/public_html/Theowarung/detailpesanan.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 34
+[04-Jun-2019 11:25:44 Asia/Jakarta] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 32
+[04-Jun-2019 11:25:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/resepma3/public_html/Theowarung/detailpesanan.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 34
+[04-Jun-2019 11:29:02 Asia/Jakarta] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 24
+[04-Jun-2019 11:29:29 Asia/Jakarta] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 24
+[04-Jun-2019 11:29:40 Asia/Jakarta] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 24
+[04-Jun-2019 11:34:36 Asia/Jakarta] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 32
+[04-Jun-2019 11:34:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/resepma3/public_html/Theowarung/detailpesanan.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 34
+[04-Jun-2019 11:34:54 Asia/Jakarta] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 32
+[04-Jun-2019 11:34:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/resepma3/public_html/Theowarung/detailpesanan.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 34
+[04-Jun-2019 12:02:09 Asia/Jakarta] PHP Notice:  Undefined index: invoice in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 36
+[04-Jun-2019 12:02:09 Asia/Jakarta] PHP Notice:  Undefined index: nama_produk in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 36
+[04-Jun-2019 12:02:09 Asia/Jakarta] PHP Notice:  Undefined index: harga in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 36
+[04-Jun-2019 12:02:09 Asia/Jakarta] PHP Notice:  Undefined index: qty in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 37
+[04-Jun-2019 12:02:09 Asia/Jakarta] PHP Notice:  Undefined index: invoice in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 36
+[04-Jun-2019 12:02:09 Asia/Jakarta] PHP Notice:  Undefined index: nama_produk in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 36
+[04-Jun-2019 12:02:09 Asia/Jakarta] PHP Notice:  Undefined index: harga in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 36
+[04-Jun-2019 12:02:09 Asia/Jakarta] PHP Notice:  Undefined index: qty in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 37
+[04-Jun-2019 12:02:09 Asia/Jakarta] PHP Notice:  Undefined index: invoice in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 36
+[04-Jun-2019 12:02:09 Asia/Jakarta] PHP Notice:  Undefined index: nama_produk in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 36
+[04-Jun-2019 12:02:09 Asia/Jakarta] PHP Notice:  Undefined index: harga in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 36
+[04-Jun-2019 12:02:09 Asia/Jakarta] PHP Notice:  Undefined index: qty in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 37
+[04-Jun-2019 12:02:09 Asia/Jakarta] PHP Notice:  Undefined index: invoice in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 36
+[04-Jun-2019 12:02:09 Asia/Jakarta] PHP Notice:  Undefined index: nama_produk in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 36
+[04-Jun-2019 12:02:09 Asia/Jakarta] PHP Notice:  Undefined index: harga in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 36
+[04-Jun-2019 12:02:09 Asia/Jakarta] PHP Notice:  Undefined index: qty in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 37
+[04-Jun-2019 12:02:09 Asia/Jakarta] PHP Notice:  Undefined index: invoice in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 36
+[04-Jun-2019 12:02:09 Asia/Jakarta] PHP Notice:  Undefined index: nama_produk in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 36
+[04-Jun-2019 12:02:09 Asia/Jakarta] PHP Notice:  Undefined index: harga in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 36
+[04-Jun-2019 12:02:09 Asia/Jakarta] PHP Notice:  Undefined index: qty in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 37
+[04-Jun-2019 12:02:09 Asia/Jakarta] PHP Notice:  Undefined index: invoice in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 36
+[04-Jun-2019 12:02:09 Asia/Jakarta] PHP Notice:  Undefined index: nama_produk in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 36
+[04-Jun-2019 12:02:09 Asia/Jakarta] PHP Notice:  Undefined index: harga in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 36
+[04-Jun-2019 12:02:09 Asia/Jakarta] PHP Notice:  Undefined index: qty in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 37
+[04-Jun-2019 12:02:09 Asia/Jakarta] PHP Notice:  Undefined index: invoice in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 36
+[04-Jun-2019 12:02:09 Asia/Jakarta] PHP Notice:  Undefined index: nama_produk in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 36
+[04-Jun-2019 12:02:09 Asia/Jakarta] PHP Notice:  Undefined index: harga in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 36
+[04-Jun-2019 12:02:09 Asia/Jakarta] PHP Notice:  Undefined index: qty in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 37
+[04-Jun-2019 12:05:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/resepma3/public_html/Theowarung/detailpesanan.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 34
+[04-Jun-2019 12:06:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/resepma3/public_html/Theowarung/detailpesanan.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/resepma3/public_html/Theowarung/detailpesanan.php on line 34
